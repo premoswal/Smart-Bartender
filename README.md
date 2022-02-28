@@ -9,7 +9,7 @@ User can make drink with 2 methodes,
 software part and little explanation:
 
 1] File uploaded with name SMART BARTENDER contains complete code.
-2] I have used PlatformIO for programming my ESP32. If you are using ESP32 the you can directly flash code to your esp32.
+2] I have used PlatformIO for programming my ESP32. If you are using ESP32 then you can directly flash code to your esp32.
 3] Every file in SCR with .cpp extension contents code for that specific opertation in project.
 4] There in debounce code for rotary encoder in encoder.cpp which works very reliably.
 
