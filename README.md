@@ -1,6 +1,6 @@
 # Smart-Bartender
 My final year project. Its a drink making machine which can make various list of drinks according to user.
-User can make drink with 2 methodes,
+User can make drink using 2 methods,
 1]manually using rotay encoder
 2]connecting mobile with SMART BARTENDER using bluetooth and giving commands via mobile application.
 3]mobile application using can be downloaded for free from playstore. Name of application (serial Bluetooth). 
