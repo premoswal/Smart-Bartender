@@ -1,16 +1,8 @@
 # Smart-Bartender
-My final year project. Its a drink making machine which can make various list of drinks according to user.
-User can make drink using 2 methods,
-1]manually using rotay encoder
-2]connecting mobile with SMART BARTENDER using bluetooth and giving commands via mobile application.
-3]mobile application using can be downloaded for free from playstore. Name of application (serial Bluetooth). 
+This GitHub repository contains the code for my final year project, an innovative and versatile drink making machine that allows users to prepare a wide range of beverages according to their preferences. The machine offers two methods of operation: a manual mode that uses a rotary encoder, and a Bluetooth mode that connects to a mobile device running the free "Serial Bluetooth" application.
 
+The automatic drink making machine uses an ESP32 microcontroller, which is programmed using PlatformIO. The SMART BARTENDER code uploaded in this repository contains the complete code for the machine. Each file in the SCR directory with a .cpp extension contains code for a specific operation in the project. The debounce code for the rotary encoder is in encoder.cpp, which works reliably.
 
-software part and little explanation:
+In addition to its user-friendly interface, the automatic drink making machine offers several benefits over traditional drink preparation methods. It ensures consistency, efficiency, hygiene, convenience, personalization, and entertainment. The machine can be programmed to cater to individual preferences, allowing users to customize their drinks according to their taste. An automatic drink making machine is also more hygienic and efficient than traditional methods since it doesn't involve any direct human contact with the drink, ensuring the hygiene and cleanliness of the drink.
 
-1] File uploaded with name SMART BARTENDER contains complete code.
-2] I have used PlatformIO for programming my ESP32. If you are using ESP32 then you can directly flash code to your esp32.
-3] Every file in SCR with .cpp extension contents code for that specific opertation in project.
-4] There in debounce code for rotary encoder in encoder.cpp which works very reliably.
-
-I will soon upload complete schematic for better understanding and project images for refrence
+As a future upgrade, I plan to add capacitive touch configurable buttons to the machine, which would allow users to customize the machine's interface and improve its usability. Overall, this automatic drink making machine is a valuable addition to any event or gathering, offering an interactive experience for users to experiment with different flavors and ingredients while enjoying a consistent, hygienic, and customized drink.
