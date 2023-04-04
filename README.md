@@ -1,4 +1,4 @@
-# Smart-Bartender
+# Smart-Bartender Machine
 This GitHub repository contains the code for my final year project, an innovative and versatile drink making machine that allows users to prepare a wide range of beverages according to their preferences. The machine offers two methods of operation: a manual mode that uses a rotary encoder, and a Bluetooth mode that connects to a mobile device running the free "Serial Bluetooth" application.
 
 The automatic drink making machine uses an ESP32 microcontroller, which is programmed using PlatformIO. The SMART BARTENDER code uploaded in this repository contains the complete code for the machine. Each file in the SCR directory with a .cpp extension contains code for a specific operation in the project. The debounce code for the rotary encoder is in encoder.cpp, which works reliably.
